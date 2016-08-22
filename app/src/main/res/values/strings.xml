@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LeisiDemo</string>
+    <string name="first">首页</string>
+    <string name="shop">店铺</string>
+    <string name="gongqiu">供求</string>
+    <string name="info">消息</string>
+    <string name="personal">我的</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
